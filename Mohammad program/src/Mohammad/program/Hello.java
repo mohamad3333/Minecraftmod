@@ -1,0 +1,9 @@
+package Mohammad.program;
+
+public class Hello {
+		// main: generate some simple output
+		public static void main(String[] args) {
+		System.out.println("Hello, world.");
+		}
+
+}
